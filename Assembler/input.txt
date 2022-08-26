@@ -1,0 +1,2 @@
+store r4 r1 6
+load r6 r2 4
